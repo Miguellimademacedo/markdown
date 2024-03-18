@@ -17,3 +17,5 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
   ~Miguel lima~
+
+### Modificação para exemplo de commit pelo GitHub Desktop
